@@ -31,7 +31,7 @@ const Navbar = () => {
                             <div class="container-fluid">
                                 <form class="d-flex">
                                     <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
-                                    <button class="btn btn-outline-dark rounded-pill" type="submit">Search</button>
+                                    <button class="btn btn-outline-light rounded-pill" type="submit">Search</button>
                                 </form>
                             </div>
                         </nav>
