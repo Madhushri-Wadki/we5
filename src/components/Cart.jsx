@@ -10,6 +10,7 @@ const Cart = () => {
             <Navbar/>
         <div>
             ggttgg
+        chalooo jaayengee
         </div>
         <Footer/>
         </div>
