@@ -8,9 +8,9 @@ const Cart = () => {
     return (
         <div>
             <Navbar/>
-        <div>
-            ggttgg
-        chalooo jaayengee
+
+            Smita loves madduuuuu
+
         </div>
         <Footer/>
         </div>
